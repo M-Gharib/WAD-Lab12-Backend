@@ -1,4 +1,4 @@
-# WAD2023-Lab12-Backend
+# WAD-Lab12-Backend
 
 ## Pre-requisites
 Node.js \& NPM
@@ -7,7 +7,7 @@ Node.js \& NPM
 
 ## Clone the repository
 ```
-git clone https://github.com/M-Gharib/WAD2023-Lab12-Backend.git
+git clone https://github.com/M-Gharib/WAD-Lab12-Backend.git
 ```
 
 ## Navigate to the project directory
